@@ -1,8 +1,8 @@
 class Yarp < Formula
   desc "Yet Another Robot Platform"
   homepage "http://yarp.it"
-  url "https://github.com/robotology/yarp/archive/v2.3.64.tar.gz"
-  sha256 "3882b38c39ec9c5fdd06c68f3a4ad21da718bd2733ed7d6a5fb78d9f36dad6b2"
+  url "https://github.com/robotology/yarp/archive/v2.3.65.tar.gz"
+  sha256 "b52b42c226e39a32bd7e56acbbf79f06ee143148a0d693f80431cb3a28509d62"
 
   bottle do
     revision 1
